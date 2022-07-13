@@ -9,6 +9,14 @@
 <svelte:head>
 	<title>Home</title>
 	<meta name="description" content="Svelte demo app" />
+	<meta property="og:title" content="Svelte Learn" />
+	<meta property="og:site_name" content="Svelte Learn" />
+	<meta property="og:url" content="link-to-hosted-site.com" />
+	<meta property="og:description" content="Learning how to use Svelte" />
+	<meta
+		property="og:image"
+		content="https://res.cloudinary.com/dpkreativ/image/upload/v1657564635/sample_ctunnp.jpg"
+	/>
 </svelte:head>
 
 <section>
